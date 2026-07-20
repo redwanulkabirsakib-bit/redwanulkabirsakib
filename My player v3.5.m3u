@@ -483,6 +483,18 @@ https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://dds.oncast.me/img/logo/sp2.png"group-title="SPORTS",Live Sports-2 (FIFA World Cup)
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",Live Sports-1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",BeIN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",MTR Sports-1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",SPORTS FIRST TV
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png" group-title="SPORTS",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8_ArSbWuGTLdEtBMlBRhW0CpjxO0heiEcfaF6bKMkg&s=10"group-title="SPORTS",Fighter
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/www.bizasialive.com/wp-content/uploads/2026/06/unite8sports001.jpg" group-title="SPORTS",Fifa Unity HD 2
