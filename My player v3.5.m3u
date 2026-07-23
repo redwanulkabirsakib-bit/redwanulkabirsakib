@@ -5,8 +5,8 @@ http://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9jf8sm4JqAgGibsGkL1eU4mBNHzsh_i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7nA0G1HgRjB9o_UgOhqKDT0F6OWguMsorfCvOtyBu1DFnD1_-FKSZ4a2&s=10" group-title="Bangla",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7nA0G1HgRjB9o_UgOhqKDT0F6OWguMsorfCvOtyBu1DFnD1_-FKSZ4a2&s=10"group-title="Bangla",SOMOY TV-[2]
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7nA0G1HgRjB9o_UgOhqKDT0F6OWguMsorfCvOtyBu1DFnD1_-FKSZ4a2&s=10" group-title="Bangla",SOMOY TV-[2]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg"group-title="Bangla",T-Sports [1]
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/12/t-sports.jpg"group-title="Bangla",T-Sports [2]
