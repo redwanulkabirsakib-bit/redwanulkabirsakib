@@ -22,7 +22,7 @@ https://mv.dailyflim.online/ch/s5y1b1.m3u
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CRcA_l_B2YII4_KMkorLvC_nxC79Oj1UzCF0fzwgsixUvL0rLbTpCY1NYaS7GnVaIaoe_cD7E1p3lXVFsDXHzw" group-title="Bangla",Channel 24
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMWl_hBQnm2mP392_Bltkx8uzqaAQP-es2he07cKIWsmxjnDSVeEkHhcQ&s=10" group-title="Bangla",INDEPENDENT TV
-http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/423
+https://mv.dailyflim.online/ch/vid62z.m3u
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",JAMUNA TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxeqdJmq0zTvQgta4klSEPieobYzxq29g-xeBxog2Jsr__j_Ip_C3uNs&s=10" group-title="Bangla",Star News
@@ -82,7 +82,7 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangla",Movie Bangla TV
 https://mv.dailyflim.online/ch/5naqmo.m3u
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangla",Desh TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8
+https://mv.dailyflim.online/ch/1p70jv.m3u
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg"group-title="Bangla",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc"group-title="Bangla",Thikana
@@ -186,7 +186,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/cXezCuslM8Of9x9SzOP81q8MlnbDAcTRgZzYF4zjPO0oyWAVsC99wc-IDEmNzSbrsYnFCIVkVcrUn1vbsT7l"group-title="Kids",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cartoon_network_hd" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Kids",Cartoon Network HD
-http://line.dream-4k.cc:80/T9PDHQSJ6E/W1KLEGZ9VE/112886
+https://mv.dailyflim.online/ch/m4853g.m3u
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png"group-title="Kids",Cartoon Network USA
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoon_network_sd" tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Kids",Cartoon Network
@@ -200,9 +200,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBMT9U3TvlwI75--RHjrz_xf10bD8C0vCbzQmAEjrYG92t-ZgdDFZrBji&s=10" group-title="Kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="discovery_kids" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Kids",Discovery Kids
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_kids&e=.m3u8
+https://mv.dailyflim.online/ch/ggb9bf.m3u
 #EXTINF:-1 tvg-id="sonyyay" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Kids",SONY YAY
-http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/204
+https://mv.dailyflim.online/ch/tg65c1.m3u
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDFQfj8gzfVSiJTUgp0U6gdmJQG-CNHTy70Ar3ai4JAaJFHGS038tAubOw&s=10"group-title="Kids",Joy
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfaebe9084c7a7c494b0e61a48aad39.png"group-title="Kids",ZB Cartoon
@@ -440,13 +440,13 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjsSccQeEhgmNJ7X-ddjeOpl4QkulM5LgHY9qYBMisA&s=10" group-title="Hindi",Big Magic
 http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/355253
 #EXTINF:-1 tvg-id="hum_tv" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="Hindi",Hum TV
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_tv&e=.m3u8
+https://mv.dailyflim.online/ch/ge7uac.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaP1Ays0-g2LN3mZgLd8mtRCvpgQhPKcdfJK9MUOc_o55g49tV-zN72A&s=10" group-title="Hindi",Star Plus
 http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/98849
 #EXTINF:-1 tvg-id="hum_masala" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="Hindi",Hum Masala
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_masala&e=.m3u8
+https://mv.dailyflim.online/ch/4bpimg.m3u
 #EXTINF:-1 tvg-id="hum_sitaray" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="Hindi",Hum Sitarey
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=hum_sitaray&e=.m3u8
+https://mv.dailyflim.online/ch/vwekgi.m3u
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" group-title="Hindi",Zing
 http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/970
 #EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4wHOAXQfDz1Ln4v8bpNNr_MAGbLDaOhRC4HOhf_FRoPHkmR97XwgfuE&s=10"group-title="Entertainment",FASHION ONE
@@ -468,7 +468,7 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
 http://66.102.126.10:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="sonypix_hd" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="English Movie",SONY PIX HD
-http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/98846
+https://mv.dailyflim.online/ch/eoqupz.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8j4sE1OKzygRIGH2-3f-AHOAmGoLsIsTUFzEy0EIFAh793qPvTAT0Kr8&s=10" group-title="English Movie",HBO
 https://mv.dailyflim.online/ch/kvqikm.m3u
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="HINDI - ROMEDY NOW HD" tvg-logo="https://go4.pw/ASIA/INDIA/ROMEDY_NOW_HD.png" group-title="English Movie",ROMEDY NOW HD
