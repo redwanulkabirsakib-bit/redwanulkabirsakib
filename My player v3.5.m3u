@@ -22,7 +22,7 @@ https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CRcA_l_B2YII4_KMkorLvC_nxC79Oj1UzCF0fzwgsixUvL0rLbTpCY1NYaS7GnVaIaoe_cD7E1p3lXVFsDXHzw" group-title="Bangla",Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMWl_hBQnm2mP392_Bltkx8uzqaAQP-es2he07cKIWsmxjnDSVeEkHhcQ&s=10" group-title="Bangla",INDEPENDENT TV
-https://tv.kbhub.online/Ayna-OTT/Independent.m3u8
+https://go.skym3u.dev/live/78ec6/05061048426e1f1837213b4f4c055e205a5d1d38473c0b5c4f050006705f0129574d1c1a2f53310e58001c0d1b6646296d3e042d70095c0300705803160148543a54523d270f0d422b5964021c5037423104414f06560767.m3u8?s=738c&id=oaiu.m3u
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",JAMUNA TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxeqdJmq0zTvQgta4klSEPieobYzxq29g-xeBxog2Jsr__j_Ip_C3uNs&s=10" group-title="Bangla",Star News
@@ -384,9 +384,9 @@ http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/967
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Hindi",SONY SAB
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Hindi",SONY MAX HD
-https://media.hmair.xyz/api/play/Sony%20MAX%20HD.m3u8
+https://go.skym3u.dev/live/78ec6/05061048426e1f1837213b4f4c055e205a5d1d38473c0b5c4f050006705f0129574d18153369290f69051b1140505c3b572748326c100d.m3u8?s=738c&id=oaiu.m3u
 #EXTINF:-1 tvg-id="sony_max" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Hindi",SONY MAX
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+https://go.skym3u.dev/live/78ec6/05061048426e1f1837213b4f4c055e205a5d1d38473c0b5c4f050006705f0129574d061b254f1e06571c26100b66533d40700f313b004d5b086c4455.m3u8?s=738c&id=oaiu.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Sony_Max_1.jpg/revision/latest/scale-to-width-down/300?cb=20250510023345" group-title="Hindi",sony MAX 1
 http://live.balajibroadband.com:3500/live/3418.m3u8#skym3u.dev
 #EXTINF:-1 tvg-id="sonymax_2" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Hindi",SONY MAX 2
