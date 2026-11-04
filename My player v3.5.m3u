@@ -274,13 +274,13 @@ http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/271038
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kGjkSXFXCXCwi8ZZONEOJRK6-hOlOwjKdBJ-LNsE9L4DiGFdfm6w2gVznnPSRttwxziY6EeZtmU=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="Entertainment" tvg-name="Sananda TV" tvg-logo="https://elyts.in/Knowledge-Centre/image/cache/catalog/Magazine/Sananda-Elyts-630x420w.jpg" group-title="Indian-Bangla",Sananda TV
-http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
+https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20191221051723" group-title="Indian-Bangla",Sananda Tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sony Aath
 https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTECE9mrUtzFtOddWpCpJLVbOeMvvZs5VYJ2UJRCYEPDLg_x9WxAnVaVISM&s=10" group-title="Indian-Bangla",Akash Aath
-https://go.skym3u.dev/live/78ec/fabef393894ddd3585fc9deaf480e0ef1396773cd662bf051933b55e778500320dcd49d5c39623aab9e8a254923049dd971c087782fe76ef04f953efe6db645a7cc38081f0f4273e41a09c0063d55a3b63ec0403bdd096d18786d29dd5e891ae55a1d613.m3u8?s=11af&id=3oup.m3u
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEVBOUWhp-EKiGgC3rbMIPxUzx0nOVur31s_MA_J2Efb7RXJ_qWhT9YA&s=10" group-title="Indian-Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/jJxkTYCjjCHI1_OB6NK8G1n4vu-EIOj8gaPTxbnFA9tO_jkWJdCfUZy23fVCQtthdW9Nf8Et=s900-c-k-c0x00ffffff-no-rj"group-title="Indian-Bangla",DD Bangla
@@ -366,7 +366,7 @@ https://media.hmair.xyz/api/play/%26%20Pictures%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi",Star Gold HD
 http://202.70.146.135:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZDPiF2-U9IfJmcrUYJ6KxJkh6bikA8UU9FdvbjmjQiAxWYIlWAWQNTAz&s=10" group-title="Hindi",Star gold 2
-http://202.70.146.135:8000/play/a02d/index.m3u8
+http://107.167.16.138/stargold2/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclGOSi03HkdkHdR4vEqp-8uO-eR2JESRwxRXsmzLfWQ&s" group-title="Hindi",Star Gold Romance
 http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/972
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXsuGsGAltpatzHcwokWzY1y28EMOzbiEOz87jGt0qYShe9i7eXOn0lQs&s=10" group-title="Hindi",STAR GOLD THRILLS
@@ -464,7 +464,7 @@ http://rgkkw.live:80/1Aoen7elp5/IgMJ60tmAa/9975
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png"group-title="English Movie",Box Cinama
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie",Star Movies HD
-http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/9384.ts
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" group-title="English Movie",Star Movies Select HD
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts
 #EXTINF:-1 tvg-id="sonypix_hd" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="English Movie",SONY PIX HD
