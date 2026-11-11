@@ -278,11 +278,11 @@ https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Sananda_TV_logo.jpeg/revision/latest/scale-to-width-down/250?cb=20191221051723" group-title="Indian-Bangla",Sananda Tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dWloAb5aD9Jvz57fz6eZJmLoirWclDN6KOP6oWkmcJXsx6tseGedGxV90fYFgBGjV1KKly7yGg=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Sony Aath
-http://dvltv.cc:80/play/h-nMoMUff3jNo6b1t5jEfsivcL3bCKCoSijL8ftC9jY
+http://dvltv.cc:80/play/ItN4L5XkZke-MyZwqA0-OvLFNUVpCzf_WcHE4W9Uz-Y/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTECE9mrUtzFtOddWpCpJLVbOeMvvZs5VYJ2UJRCYEPDLg_x9WxAnVaVISM&s=10" group-title="Indian-Bangla",Akash Aath
-http://dvltv.cc:80/play/h-nMoMUff3jNo6b1t5jEftYD7PSZ1XVhAcGc_ugEsdU
-#EXTINF:-1 xui-id="7433" tvg-id="RuposhiBangla.in" tvg-name="RUPOSHI BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxy9j9zGi_SVsVx52hQULmbTcKoB8DPi6Gg&usqp=CAU" group-title="Indian-Bangla",RUPOSHI BANGLA
-http://dvltv.cc:80/play/h-nMoMUff3jNo6b1t5jEfjaGIqhDKLV7Qos5hUAJX8k
+http://dvltv.cc:80/play/ItN4L5XkZke-MyZwqA0-OvyERbb-JvqfMiOgFkgBzSI/ts
+#EXTINF:-1 tvg-id="RuposhiBangla.in" tvg-name="RUPOSHI BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxy9j9zGi_SVsVx52hQULmbTcKoB8DPi6Gg&usqp=CAU" group-title="Indian-Bangla" xui-id="7433",RUPOSHI BANGLA
+http://dvltv.cc:80/play/ItN4L5XkZke-MyZwqA0-OnGUphXeaszmC39-n9ZXyAs/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStEVBOUWhp-EKiGgC3rbMIPxUzx0nOVur31s_MA_J2Efb7RXJ_qWhT9YA&s=10" group-title="Indian-Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/jJxkTYCjjCHI1_OB6NK8G1n4vu-EIOj8gaPTxbnFA9tO_jkWJdCfUZy23fVCQtthdW9Nf8Et=s900-c-k-c0x00ffffff-no-rj"group-title="Indian-Bangla",DD Bangla
